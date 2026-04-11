@@ -1,3 +1,7 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Status](https://img.shields.io/badge/Status-Competition_Project-green.svg)
+
 # Data Analytics Competition DAC Find IT 2026
 
 An end-to-end **data analytics competition project** for **DAC (Data Analytics Competition) Find IT 2026**, focused on transforming raw datasets into **business insights, strategic recommendations, and data-driven storytelling** through exploratory analysis, visualization, and predictive analytics. The current repository contains a dedicated Jupyter Notebook workflow with **15 commits of active development**, making it a strong portfolio-ready competition project. ([github.com](https://github.com/PashaAkrilian/Data-Analytics-Competition-DAC-Find-IT-2026))
